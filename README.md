@@ -5,5 +5,5 @@ image processing techniques to aid automatic disease detection.
  classification folder has the code which can be executed either in collab or on jupyter notebook.
  libraries has to be installed on jupyter whereas on collab they are preinstalled.
  incase of any missing module write command !pip install (module-name)
- training and test data folders have data whose path has to be specified in code.
- training takes 2-3 hrs.
+ training and test data folders have to be downloaded from https://datasets.simula.no/kvasir/ and put them in a folder named train and testdata whose path has to be specified in code.
+ training takes 2-3 hrs. 
